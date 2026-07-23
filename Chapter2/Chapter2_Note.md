@@ -11,15 +11,9 @@ $$
 
 is a **probability vector** if it belongs to the **probability simplex**
 
-$$ \Sigma_n
-\coloneqq
-\left\{
-\mathbf{a}\in\mathbb{R}_+^n
-:
-\sum_{i=1}^{n} a_i = 1
-\right\}, \qquad
-a_i \geq 0,\
-\text{for every } i=1,\ldots,n.
+$$ \Sigma_n \coloneqq
+\left\{\mathbf{a}\in\mathbb{R}_+^n:\sum_{i=1}^{n} a_i = 1\right\}
+, \qquad a_i \geq 0,\ \text{for every } i=1,\ldots,n.
 $$
 
 
