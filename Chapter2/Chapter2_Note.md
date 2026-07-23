@@ -47,9 +47,7 @@ be their weights.
 A **discrete measure** is written as
 
 $$
-\alpha
-=
-\sum_{i=1}^{n} a_i\delta_{x_i}.
+\alpha = \sum_{i=1}^{n} a_i\delta_{x_i}.
 $$
 
 - $x_i$ is the location of the $i$-th mass;
@@ -62,8 +60,7 @@ at the single point $x$.
 Therefore,
 
 $$
-\alpha
-=
+\alpha =
 a_1\delta_{x_1}
 +\cdots+
 a_n\delta_{x_n}
